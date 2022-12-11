@@ -1,13 +1,13 @@
 {
-    "ip": "katyty.aternos.me",
+    "ip": "StormSM.exaroton.me",
     "port": "56074",
-    "name": "kartik",
-    "password": "",
+    "name": "ZynLL",
+    "password": "fortnite2",
     "auto-night-skip": "false",
     "prefix": "",
     "login-enabled": "false",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
+    "register-cmd": "/login fortnite2 fortnite2",
+    "login-cmd": "/login fortnite2",
     "loginmsg": "done",
     "auto-reconnect": "true",
     "web": "true"
